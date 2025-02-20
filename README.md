@@ -39,13 +39,6 @@ I am **MoalimirInfinity**, a Computer Science and economic enthusiast
 </div>
 
 ---
-
-## Featured Projects
-
-Explore some of my most impactful projects:
-- **[Project One](https://github.com/moalimirifinity/project-link):** A concise overview of this initiative, highlighting its innovative aspects and technical achievements.
-- **[Project Two](https://github.com/moalimirifinity/project-link):** An exploration of advanced features and problem-solving strategies applied in this project.
-
 ---
 
 ## Inspirational Quote
