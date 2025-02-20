@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# moalimirinfinity
 
 I am **MoalimirInfinity**, a Computer Science and economic enthusiast
 ---
