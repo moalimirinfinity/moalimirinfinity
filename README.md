@@ -1,14 +1,13 @@
 # Welcome to My GitHub Profile
 
-I am **Moalimir Infinity**, a dedicated Computer Science student with a strong focus on technological innovation and artificial intelligence. My academic journey and personal projects reflect my commitment to excellence and continuous learning.
-
+I am **MoalimirInfinity**, a Computer Science and economic enthusiast
 ---
 
 ## About Me
 
 - **Academic Pursuits:** Currently majoring in Computer Science.
-- **Professional Interests:** Actively engaged in developing advanced AI tools and innovative solutions.
-- **Philosophy:** I believe in harnessing technology to drive progress and create impactful solutions.
+- **Professional Interests:** Actively engaged in Algorithmics and Strategic Thinking.
+- **Philosophy:** I believe in Wisdom over science and Science over anything else.
 
 ---
 
