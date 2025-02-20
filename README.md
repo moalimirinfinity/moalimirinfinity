@@ -49,4 +49,3 @@ I am **MoalimirInfinity**, a Computer Science and economic enthusiast
 
 ---
 
-*Proudly presented as a reflection of my professional journey and technical passion.*
