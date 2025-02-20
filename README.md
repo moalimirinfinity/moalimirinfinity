@@ -30,15 +30,8 @@ I am **MoalimirInfinity**, a Computer Science and economic enthusiast
 
 ---
 
-## GitHub Insights
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=moalimirifinity&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moalimirifinity&theme=dark&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moalimirifinity&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
----
 ---
 
 ## Inspirational Quote
