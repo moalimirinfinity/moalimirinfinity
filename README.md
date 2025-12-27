@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I’m moalimirinfinity
+# I’m moalimirinfinity
 
 ### Developer | AI & Automation Enthusiast | Open-Source
 
