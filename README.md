@@ -4,9 +4,6 @@
 
 ### Developer | AI & Automation Enthusiast | Open-Source
 
-
-<br>
-
 ---
 
 ### 🛠️ Skills & Interests
