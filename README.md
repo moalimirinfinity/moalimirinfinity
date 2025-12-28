@@ -17,7 +17,7 @@
 
 ### 📫 Get in touch
 
-Open to collaboration on very interesting ideas :)
+Open to collaboration on interesting ideas :)
 
 [![Telegram Connect](https://img.shields.io/badge/Connect_on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/moalimir)
 
