@@ -2,7 +2,7 @@
 
 # I’m moalimirinfinity
 
-### Developer | AI & Automation Enthusiast | Open-Source
+### Developer | AI & ML Enthusiast | Open-Source
 
 ---
 
