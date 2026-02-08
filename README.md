@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Skills & Interests
+### Skills & Interests
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,9 +15,7 @@
 
 ---
 
-### 📫 Get in touch
-
-Open to collaboration on interesting ideas :)
+###  Get in touch
 
 [![Telegram Connect](https://img.shields.io/badge/Connect_on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/moalimir)
 
