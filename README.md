@@ -2,7 +2,7 @@
 
 # I’m moalimirinfinity
 
-### Developer | AI & ML Enthusiast
+### Philosopher-Developer | AI & ML Enthusiast
 
 ---
 
