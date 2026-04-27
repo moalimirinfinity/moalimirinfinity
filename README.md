@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E8B57?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square)
 
 ---
 
